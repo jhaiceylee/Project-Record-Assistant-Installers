@@ -1,5 +1,15 @@
 ﻿# Project Record Assistant
+**Project Record Assistant** is a lightweight setup tool that bridges human planning and AI agent execution. It guides developers through a simple 6-step questionnaire to assemble comprehensive project documentation—including tech stack specifications, team roles, scope definitions, and handover records—before launching directly into your local coding agent environment.
 
+---
+
+### ✨ Key Features
+
+* **📋 6-Part Structured Workflow:** Walks users through Project Naming, Team & Roles, Scope, Document Choice, Saving, and Execution Handover.
+* **🤖 AI Agent Integration:** Automatically passes initial context (Language, Framework, Database, Hosting) directly to AI coding assistants (like Cursor, Claude Code, or Windsurf).
+* **👥 Role & Scope Management:** Defines explicit team ownership and boundaries before writing any code.
+* **📂 Automated File Generation:** Creates standardized markdown/documentation files in your project directory for instant context initialization.
+* 
 Download the installer for your computer from the [Releases](https://github.com/jhaiceylee/Project-Record-Assistant-Installers/releases) page.
 
 | Computer | File |
