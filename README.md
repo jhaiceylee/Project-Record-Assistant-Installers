@@ -9,7 +9,7 @@
 * **🤖 AI Agent Integration:** Automatically passes initial context (Language, Framework, Database, Hosting) directly to AI coding assistants (like Cursor, Claude Code, or Windsurf).
 * **👥 Role & Scope Management:** Defines explicit team ownership and boundaries before writing any code.
 * **📂 Automated File Generation:** Creates standardized markdown/documentation files in your project directory for instant context initialization.
-* 
+
 Download the installer for your computer from the [Releases](https://github.com/jhaiceylee/Project-Record-Assistant-Installers/releases) page.
 
 | Computer | File |
